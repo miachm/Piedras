@@ -8,11 +8,11 @@ Piedras (stones) is a remake of a classic puzzle game: Sokoban.
 
 The goal is push a set of boxes to the goals.
 
-#Play
+# Play
 
 Download "Piedras.zip", it's an compiled release ready to play :)
 
-#Screenshots
+# Screenshots
 
 ![Screenshot](https://i.imgur.com/boWNtYi.png)
 
