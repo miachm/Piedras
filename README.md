@@ -14,25 +14,25 @@ Download "Piedras.zip", it's an compiled release ready to play :)
 
 # Screenshots
 
-![Screenshot](https://i.imgur.com/boWNtYi.png)
-
 *(A typical level in Piedras)*
 
-![Screenshot](https://i.imgur.com/aQJbzsP.png)
+![Screenshot](https://i.imgur.com/boWNtYi.png)
 
 *(The stones enters in game)*
 
-![Screenshot](https://i.imgur.com/nTZzWrf.png)
+![Screenshot](https://i.imgur.com/aQJbzsP.png)
 
 *(Get fun with the straw :))*
 
-![Screenshot](https://i.imgur.com/3Narb2v.png)
+![Screenshot](https://i.imgur.com/nTZzWrf.png)
 
 *(Gravity buttons!)*
 
-![Screenshot](https://i.imgur.com/MFssZpJ.png)
+![Screenshot](https://i.imgur.com/3Narb2v.png)
 
-*(Built-in level's editor. You can create your own levels)
+*(Built-in level's editor. You can create your own levels)*
+
+![Screenshot](https://i.imgur.com/MFssZpJ.png)
 
 # About this remake
 
