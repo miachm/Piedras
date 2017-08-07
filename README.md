@@ -32,7 +32,7 @@ Download "Piedras.zip", it's an compiled release ready to play :)
 
 *(Built-in level's editor. You can create your own levels)*
 
-![Screenshot](https://i.imgur.com/MFssZpJ.png)
+![Screenshot](http://i.imgur.com/8rsewvU.png)
 
 # About this remake
 
